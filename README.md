@@ -32,3 +32,7 @@ Product Detail API
 - google_fonts: ^4.0.3  `change default fonts`
 - fluttertoast: ^8.2.1  `Toast message to notify the user`
 - liquid_pull_to_refresh: ^3.0.1  `pull to refresh`
+
+
+## Permissions
+- Internet Permission
